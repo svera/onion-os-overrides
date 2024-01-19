@@ -8,9 +8,9 @@ All modifications proposed here are for Onion OS 4.2. Instructions for other ver
 
 ### Goals
 
-* To be able to use FinalBurn Neo as the default emulator core for arcade games. It works fine with most of the arcade games supported by MAME 2003 Plus, but uses a more modern romset and provides a more accurate emulation (take into account that the MAME 2003 Plus core it is more than 20 years old)
+* To be able to use FinalBurn Neo as the default emulator core for arcade games. It works fine with most of the arcade games supported by MAME 2003 Plus, but uses a more modern romset and provides a more accurate emulation (take into account that the MAME 2003 Plus core is more than 20 years old).
 * To be able to play vertical games in vertical format, remapping controls accordingly.
-* To have all arcade games under the `ARCADE` section (No CPS1, CPS2, CPS3 sections under `Games`)
+* To have all arcade games under the `ARCADE` section (No CPS1, CPS2, CPS3 sections under `Games`).
 
 ### Change default emulator core
 
