@@ -1,6 +1,6 @@
 # Onion OS overrides
 
-This repository contains a list of config files and tips for Onion OS, specifically aimed to the Miyoo Mini Plus console.
+This repository contains a list of config files and tips for [Onion OS](https://github.com/OnionUI/Onion), specifically aimed to the Miyoo Mini and Miyoo Mini Plus consoles.
 
 All modifications proposed here are for Onion OS 4.2. Instructions for other versions may vary.
 
@@ -33,8 +33,8 @@ Note that these overrides are intended for right-handed players.
 
 ### Show only ARCADE section under games
 
-Remove CPS1, CPS2 and CPS3 folders from `Emu`.
+Remove CPS1, CPS2 and CPS3 folders from `Emu` folder.
 
 ### Change emulator core in specific games
 
-Some CPS2 and CPS3 are harder to emulate and results in slowdowns in the Miyoo Mini Plus. This can be sorted out by using an older, less demanding and accurate core than Final Burn Neo. To do that, copy the configs contained in `game_config` to `Roms/ARCADE/.game_config` (Note that the target folder is hidden), which will replace Final Burn Neo core by Final Burn Alpha 2012 or Mame 2003 Plus.
+Some CPS2 and CPS3 are harder to emulate and results in slowdowns in the Miyoo Mini and Mini Plus. This can be sorted out by using an older, less demanding and accurate core than Final Burn Neo. To do that, copy the configs contained in `game_config` to `Roms/ARCADE/.game_config` (Note that the target folder is hidden), which will replace Final Burn Neo core by Final Burn Alpha 2012 or Mame 2003 Plus.
